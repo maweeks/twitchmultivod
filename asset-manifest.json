@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twitchmultivod/static/css/main.d34163dd.chunk.css",
+    "main.js": "/twitchmultivod/static/js/main.af26cdb6.chunk.js",
+    "main.js.map": "/twitchmultivod/static/js/main.af26cdb6.chunk.js.map",
+    "runtime-main.js": "/twitchmultivod/static/js/runtime-main.94a28dfc.js",
+    "runtime-main.js.map": "/twitchmultivod/static/js/runtime-main.94a28dfc.js.map",
+    "static/js/2.0781661e.chunk.js": "/twitchmultivod/static/js/2.0781661e.chunk.js",
+    "static/js/2.0781661e.chunk.js.map": "/twitchmultivod/static/js/2.0781661e.chunk.js.map",
+    "index.html": "/twitchmultivod/index.html",
+    "precache-manifest.8128197419ba9d97ae23006a3a9db1e6.js": "/twitchmultivod/precache-manifest.8128197419ba9d97ae23006a3a9db1e6.js",
+    "service-worker.js": "/twitchmultivod/service-worker.js",
+    "static/css/main.d34163dd.chunk.css.map": "/twitchmultivod/static/css/main.d34163dd.chunk.css.map",
+    "static/js/2.0781661e.chunk.js.LICENSE.txt": "/twitchmultivod/static/js/2.0781661e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a28dfc.js",
+    "static/js/2.0781661e.chunk.js",
+    "static/css/main.d34163dd.chunk.css",
+    "static/js/main.af26cdb6.chunk.js"
+  ]
+}
