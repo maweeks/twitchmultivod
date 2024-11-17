@@ -83,6 +83,11 @@ const style= {
     outline: "none",
     borderRadius: "2px",
   },
+  notice: {
+    fontSize: "20px",
+    margin: "20px",
+    textAlign: 'center',
+  },
   instructions: {
     fontSize: "15px",
     marginTop: "8px",
@@ -951,6 +956,7 @@ function App() {
                 margin: "20px",
               }}
             >
+              <div style={style.notice}>THIS IS A TWITCHMULTIVOD.COM REHOSTED DUE TO THE DOMAIN EXPIRING, CLICK SOURCE TOP RIGHT TO GO TO THE ORIGINAL PROJECT</div>
               <div style={{
                 alignSelf: "center",
                 marginBottom: "15px",
